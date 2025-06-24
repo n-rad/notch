@@ -11,3 +11,31 @@ src: url('https://n-rad.github.io/notch/ABCArizonaSerif-MediumItalic.woff2') for
 font-weight: normal; 
 font-style: normal;
 }
+
+@font-face {
+font-family: 'Arizona-Regular'; 
+src: url('https://n-rad.github.io/notch/ABCArizonaSerif-Regular.woff2') format('woff2'); 
+font-weight: normal; 
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Arizona-RegularItalic'; 
+src: url('https://n-rad.github.io/notch/ABCArizonaSerif-RegularItalic.woff2') format('woff2'); 
+font-weight: normal; 
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Gravity-Compressed'; 
+src: url('https://n-rad.github.io/notch/ABCGravity-Compressed.woff2') format('woff2'); 
+font-weight: normal; 
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Gravity-CompressedItalic'; 
+src: url('https://n-rad.github.io/notch/ABCGravity-CompressedItalic.woff2') format('woff2'); 
+font-weight: normal; 
+font-style: normal;
+}
