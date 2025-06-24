@@ -1,6 +1,13 @@
 @font-face {
-font-family: 'Arizona'; 
+font-family: 'Arizona-Medium'; 
 src: url('https://n-rad.github.io/notch/ABCArizonaSerif-Medium.woff2') format('woff2'); 
+font-weight: normal; 
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Arizona-MediumItalic'; 
+src: url('https://n-rad.github.io/notch/ABCArizonaSerif-MediumItalic.woff2') format('woff2'); 
 font-weight: normal; 
 font-style: normal;
 }
